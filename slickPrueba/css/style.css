@@ -1,0 +1,100 @@
+/*
+COLOR PALETE
+#304a76
+#f2f2f2	
+#ffb6b6	
+#ffebeb	
+#a4add8
+
+
+#5f6366	
+#4d6d9a	
+#86b3d1	
+#99ced3	
+#eecbd1
+
+
+
+#907E37
+
+#772266
+#371E37
+#edce55
+#ba349f
+#261526
+*/
+body{
+
+	background-color:rgb(218, 200, 129);
+}
+
+
+.navbar {
+	background-color:#371E37 !important ;
+}
+
+
+
+.navbar-light .navbar-nav .nav-link	{
+	color: #907E37;
+}
+.navbar-light .navbar-nav .nav-link:hover	{
+	color: #edce55;
+}
+
+.navbar-light .btn{
+	margin-left: 10px;
+}
+.registroB{
+	color: #371E37;
+
+	border-color: #D5A021 !important;
+	background-color: #907E37 ;
+	outline-color:#D5A021 ;
+}
+.registroB:hover {
+color: #907E37;
+	border-color: #D5A021;
+	background-color: #371E37 ;
+	
+}
+
+.ingresoB{
+	color: #907E37;
+
+	border-color: #D5A021 !important;
+	background-color: #371E37 ;
+	outline-color:#D5A021 ;
+}
+.ingresoB:hover {
+color: #371E37;
+	border-color: #371E37;
+	background-color: #907E37 ;
+	
+}
+
+.whiteFont{
+background-color: rgba(223, 223, 223, 0.342);
+border-radius: 7px;
+width:  1140px;
+margin-top: -40px;
+}
+
+
+.titulosIndex{
+	margin-top: 60px;
+	margin-bottom: 30px;
+	color: rgb(31, 16, 31);
+}
+
+
+.buscadorIndex{
+	margin-right: 400px;
+}
+.barraBuscardorIndex{
+	width:  20px;
+}
+
+.card-body{
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
